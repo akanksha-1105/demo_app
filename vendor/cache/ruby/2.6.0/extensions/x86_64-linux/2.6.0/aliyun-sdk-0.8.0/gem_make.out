@@ -1,0 +1,16 @@
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/aliyun-sdk-0.8.0/ext/crcx
+/home/rails/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/rails/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20210323-12766-10axe32.rb extconf.rb
+creating Makefile
+
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make "DESTDIR=" clean
+
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make "DESTDIR="
+compiling crc64_ecma.c
+compiling crcx.c
+linking shared-object aliyun/crcx.so
+
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make "DESTDIR=" install
+/usr/bin/install -m 0755 crcx.so ./.gem.20210323-12766-14byvyp/aliyun

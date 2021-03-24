@@ -1,0 +1,13 @@
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/json-2.5.1/ext/json
+/home/rails/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/rails/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20210323-12766-1d1rk0g.rb extconf.rb
+creating Makefile
+
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/json-2.5.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/rails/akanksha/demo_app/vendor/cache/ruby/2.6.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" install
